@@ -216,7 +216,7 @@ const Nav = ({ isHome }) => {
       <StyledNav>
         {prefersReducedMotion ? (
           <>
-            {Logo}
+            {/* {Logo} */}
 
             <StyledLinks>
               <ol>

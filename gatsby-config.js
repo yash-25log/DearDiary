@@ -5,7 +5,7 @@ module.exports = {
     title: 'Yash Singhal',
     description:
       'Yash Singhal is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://yashsinghal.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo1.png',
       },
     },
     `gatsby-plugin-offline`,
